@@ -37,10 +37,10 @@ do {
 
             break
         case '3':
-            alert('Valeu doidooooo!')
+            alert('Encerrando...')
             break
         default:
-            alert('Opção inválida')
+            alert('Opção inválida!')
     }
     
 } while (interact !== '3')
